@@ -6,5 +6,4 @@ Tugas Besar Mata Kuliah Analisis Perancangan Sistem Informasi
 **Kelompok 10**
 
 Nama Anggota:
-(2110312006) Rio Nurdiansyah
-(2110312038) Anisa Budiarti, (2110312043)	Anysa Vania Utami, (2110312063)	Daffa Rozano, dan (2110312034)	Adinda Syakira Suciati 
+(2110312006) Rio Nurdiansyah, (2110312038) Anisa Budiarti, (2110312043)	Anysa Vania Utami, (2110312063)	Daffa Rozano, dan (2110312034)	Adinda Syakira Suciati 
