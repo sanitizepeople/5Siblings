@@ -1,0 +1,310 @@
+.customer-order-detail-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.customer-order-detail-customerorderdetails {
+  gap: 10px;
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(245, 242, 222, 1);
+}
+.customer-order-detail-rectangle41 {
+  top: 153px;
+  left: -19px;
+  width: 1958px;
+  height: 193px;
+  position: absolute;
+}
+.customer-order-detail-rectangle46 {
+  top: 1268px;
+  left: 1459px;
+  width: 479px;
+  height: 311px;
+  position: absolute;
+}
+.customer-order-detail-rectangle40 {
+  top: 140px;
+  left: -6px;
+  width: 1958px;
+  height: 16px;
+  position: absolute;
+}
+.customer-order-detail-rectangle42 {
+  top: 337px;
+  left: -19px;
+  width: 1958px;
+  height: 16px;
+  position: absolute;
+}
+.customer-order-detail-rectangle43 {
+  top: 493px;
+  left: -6px;
+  width: 1958px;
+  height: 5px;
+  position: absolute;
+}
+.customer-order-detail-rectangle44 {
+  top: 656px;
+  left: -11px;
+  width: 1958px;
+  height: 5px;
+  position: absolute;
+}
+.customer-order-detail-rectangle45 {
+  top: 747px;
+  left: -7px;
+  width: 1958px;
+  height: 5px;
+  position: absolute;
+}
+.customer-order-detail-rectangle47 {
+  top: 843px;
+  left: -13px;
+  width: 1958px;
+  height: 5px;
+  position: absolute;
+}
+.customer-order-detail-text {
+  top: 184px;
+  color: rgba(0, 0, 0, 1);
+  right: 14px;
+  width: 1743px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.customer-order-detail-text09 {
+  top: -51px;
+  left: 163px;
+  color: rgba(0, 0, 0, 1);
+  width: 756px;
+  height: auto;
+  position: absolute;
+  font-size: 43px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.customer-order-detail-text11 {
+  top: 781px;
+  color: rgb(0, 0, 0);
+  right: 27px;
+  width: auto;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.customer-order-detail-text12 {
+  top: 887px;
+  left: 117px;
+  color: rgb(0, 0, 0);
+  width: auto;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.customer-order-detail-container1 {
+  top: 867.9971313476562px;
+  left: 1501.0084228515625px;
+  width: 815.9801025390625px;
+  height: 310.9942932128906px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.customer-order-detail-rectangle461 {
+  top: 0px;
+  left: 0px;
+  width: 479px;
+  height: 311px;
+  position: absolute;
+}
+.customer-order-detail-text13 {
+  top: 137.0028076171875px;
+  left: 59.98583984375px;
+  color: rgba(245, 242, 222, 1);
+  width: 756px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.customer-order-detail-text15 {
+  top: 687px;
+  color: rgb(0, 0, 0);
+  right: 28px;
+  width: auto;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.customer-order-detail-text16 {
+  color: #000000;
+  font-weight: 700;
+}
+.customer-order-detail-text17 {
+  color: #dd6031;
+  font-weight: 700;
+}
+.customer-order-detail-navlink {
+  display: contents;
+}
+.customer-order-detail-arrow2 {
+  top: 77px;
+  left: 126px;
+  width: 70px;
+  height: 42px;
+  position: absolute;
+  text-decoration: none;
+}
+.customer-order-detail-text19 {
+  top: 524px;
+  left: 255px;
+  color: rgb(0, 0, 0);
+  width: 756px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 40px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.customer-order-detail-address3 {
+  top: 534px;
+  left: 142px;
+  width: 81px;
+  height: 81px;
+  position: absolute;
+}
+.customer-order-detail-text26 {
+  top: 80px;
+  left: 256px;
+  color: rgba(0, 0, 0, 1);
+  width: 756px;
+  height: auto;
+  position: absolute;
+  font-size: 43px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.customer-order-detail-text28 {
+  color: rgba(245, 242, 222, 1);
+  width: 756px;
+  height: auto;
+  font-size: 40px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.customer-order-detail-text30 {
+  top: 368px;
+  color: rgba(0, 0, 0, 1);
+  right: -41px;
+  width: 1727px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 40px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.customer-order-detail-text31 {
+  color: rgba(0, 0, 0, 1);
+}
+.customer-order-detail-text35 {
+  color: rgba(221, 96, 49, 1);
+  font-weight: 700;
+}
+.customer-order-detail-text40 {
+  top: 399px;
+  color: rgba(0, 0, 0, 1);
+  right: 99px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.customer-order-detail-receive-product2 {
+  top: 177px;
+  right: 104px;
+  width: 143px;
+  height: 144px;
+  position: absolute;
+}
+.customer-order-detail-delivery2 {
+  top: 382px;
+  left: 156px;
+  width: 65px;
+  height: 65px;
+  position: absolute;
+}

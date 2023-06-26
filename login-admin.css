@@ -1,0 +1,171 @@
+.login-admin-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.login-admin-loginadmin {
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(245, 242, 222, 1);
+}
+.login-admin-vector {
+  top: 221px;
+  left: 493px;
+  width: 826px;
+  height: 702px;
+  position: absolute;
+}
+.login-admin-rectangle5 {
+  top: 132px;
+  left: 635px;
+  width: 564px;
+  height: 670px;
+  position: absolute;
+  border-radius: 59px;
+}
+.login-admin-rectangle4 {
+  top: 547px;
+  left: 684px;
+  width: 429px;
+  height: 48px;
+  position: absolute;
+}
+.login-admin-text {
+  top: 553px;
+  left: 867px;
+  color: rgba(255, 255, 255, 1);
+  width: 62px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 36px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-admin-text02 {
+  top: 305px;
+  left: 683px;
+  color: rgba(91, 88, 88, 1);
+  width: 121px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 36px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-admin-textinput {
+  top: 343px;
+  left: 680px;
+  position: absolute;
+}
+.login-admin-textinput1 {
+  top: 441px;
+  left: 684px;
+  position: absolute;
+}
+.login-admin-text04 {
+  top: 305px;
+  left: 683px;
+  color: rgba(91, 88, 88, 1);
+  width: 121px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 36px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-admin-text06 {
+  top: 398px;
+  left: 683px;
+  color: rgb(91, 88, 88);
+  width: 121px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 36px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-admin-text07 {
+  top: 227px;
+  left: 716px;
+  color: rgba(91, 88, 88, 0.8199999928474426);
+  width: 365px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-admin-text09 {
+  top: 182px;
+  left: 742px;
+  color: rgb(0, 0, 0);
+  width: 338px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 36px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-admin-draw-kitonlineshopping-illustration112 {
+  top: 217px;
+  left: 163px;
+  width: 581px;
+  height: 691px;
+  position: absolute;
+}
+.login-admin-navlink {
+  display: contents;
+}
+.login-admin-arrow4 {
+  top: 111px;
+  left: 141px;
+  width: 70px;
+  height: 42px;
+  position: absolute;
+  text-decoration: none;
+}
+.login-admin-draw-kitonlineshopping-illustration052 {
+  top: 378px;
+  left: 1037px;
+  width: 719px;
+  height: 585px;
+  position: absolute;
+}

@@ -1,0 +1,312 @@
+.catalog2-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.catalog2-desktop7 {
+  gap: 10px;
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(245, 242, 222, 1);
+}
+.catalog2-desktop4 {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(245, 242, 222, 1);
+}
+.catalog2-rectangle12 {
+  top: 1568.999755859375px;
+  left: 1989.77685546875px;
+  width: 1990px;
+  height: 1254px;
+  position: absolute;
+}
+.catalog2-navlink {
+  display: contents;
+}
+.catalog2-cart-add5 {
+  top: 79px;
+  left: 1810px;
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  text-decoration: none;
+}
+.catalog2-rectangle7 {
+  top: 145px;
+  left: 159px;
+  width: 340px;
+  height: 340px;
+  position: absolute;
+  border-radius: 16px;
+}
+.catalog2-navlink01 {
+  display: contents;
+}
+.catalog2-femaletshirtyellow1 {
+  top: 145px;
+  left: 157px;
+  width: 340px;
+  height: 336px;
+  position: absolute;
+  border-radius: 19px;
+  text-decoration: none;
+}
+.catalog2-text {
+  top: 481px;
+  left: 158px;
+  color: rgba(0, 0, 0, 1);
+  width: 242px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.catalog2-text02 {
+  top: 488px;
+  left: 580px;
+  color: rgba(0, 0, 0, 1);
+  width: 241px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.catalog2-text04 {
+  top: 484px;
+  left: 1001px;
+  color: rgba(0, 0, 0, 1);
+  width: 262px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.catalog2-text06 {
+  top: 488px;
+  left: 1422px;
+  color: rgba(0, 0, 0, 1);
+  width: 292px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.catalog2-text08 {
+  top: 524px;
+  left: 158px;
+  color: rgba(0, 0, 0, 1);
+  width: 242px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.catalog2-text10 {
+  top: 525px;
+  left: 1001px;
+  color: rgba(0, 0, 0, 1);
+  width: 242px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.catalog2-text12 {
+  top: 530px;
+  left: 1422px;
+  color: rgba(0, 0, 0, 1);
+  width: 242px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.catalog2-text14 {
+  top: 526px;
+  left: 580px;
+  color: rgba(0, 0, 0, 1);
+  width: 241px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.catalog2-navlink02 {
+  display: contents;
+}
+.catalog2-cart-add1 {
+  top: 506px;
+  left: 435px;
+  width: 62px;
+  height: 56px;
+  position: absolute;
+  text-decoration: none;
+}
+.catalog2-navlink03 {
+  display: contents;
+}
+.catalog2-cart-add2 {
+  top: 505px;
+  left: 857px;
+  width: 62px;
+  height: 56px;
+  position: absolute;
+  text-decoration: none;
+}
+.catalog2-navlink04 {
+  display: contents;
+}
+.catalog2-cart-add3 {
+  top: 498px;
+  left: 1279px;
+  width: 62px;
+  height: 56px;
+  position: absolute;
+  text-decoration: none;
+}
+.catalog2-navlink05 {
+  display: contents;
+}
+.catalog2-cart-add4 {
+  top: 501px;
+  left: 1700px;
+  width: 62px;
+  height: 56px;
+  position: absolute;
+  text-decoration: none;
+}
+.catalog2-rectangle11 {
+  top: 145px;
+  left: 580px;
+  width: 339px;
+  height: 340px;
+  position: absolute;
+  border-radius: 16px;
+}
+.catalog2-rectangle121 {
+  top: 145px;
+  left: 1002px;
+  width: 340px;
+  height: 340px;
+  position: absolute;
+  border-radius: 16px;
+}
+.catalog2-rectangle13 {
+  top: 145px;
+  left: 1422px;
+  width: 340px;
+  height: 340px;
+  position: absolute;
+  border-radius: 16px;
+}
+.catalog2-navlink06 {
+  display: contents;
+}
+.catalog2-malewhiteshirt1 {
+  top: 145px;
+  left: 1001px;
+  width: 340px;
+  height: 336px;
+  position: absolute;
+  border-radius: 16px;
+  text-decoration: none;
+}
+.catalog2-navlink07 {
+  display: contents;
+}
+.catalog2-malebrownsweater1 {
+  top: 144px;
+  left: 1423px;
+  width: 339px;
+  height: 337px;
+  position: absolute;
+  border-radius: 16px;
+  text-decoration: none;
+}
+.catalog2-navlink08 {
+  display: contents;
+}
+.catalog2-femalejacketnavy1 {
+  top: 145px;
+  left: 581px;
+  width: 337px;
+  height: 336px;
+  position: absolute;
+  border-radius: 16px;
+  text-decoration: none;
+}
+.catalog2-navlink09 {
+  display: contents;
+}
+.catalog2-arrow4 {
+  top: 83px;
+  left: 145px;
+  width: 70px;
+  height: 42px;
+  position: absolute;
+  text-decoration: none;
+}

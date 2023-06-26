@@ -1,0 +1,522 @@
+.kemeja-admin-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.kemeja-admin-kemeja2 {
+  gap: 10px;
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+  background-color: rgba(245, 242, 222, 1);
+}
+.kemeja-admin-text {
+  top: 163px;
+  left: 888px;
+  color: rgba(0, 0, 0, 1);
+  width: 875px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Extra Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 60px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.kemeja-admin-text02 {
+  top: 53px;
+  left: 190px;
+  color: rgba(93, 90, 90, 1);
+  width: 241px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.kemeja-admin-text04 {
+  top: 319px;
+  left: 888px;
+  color: rgba(166, 161, 161, 1);
+  width: 292px;
+  height: auto;
+  position: absolute;
+  font-size: 46px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.kemeja-admin-text06 {
+  top: 375px;
+  left: 887px;
+  color: rgba(55, 54, 54, 1);
+  width: 285px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.kemeja-admin-text08 {
+  top: 372px;
+  left: 1369px;
+  color: rgba(55, 54, 54, 1);
+  width: 285px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.kemeja-admin-text10 {
+  top: 563px;
+  left: 890px;
+  color: rgba(55, 54, 54, 1);
+  width: 285px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.kemeja-admin-rectangle7 {
+  top: 423px;
+  left: 890px;
+  width: 51px;
+  height: 64px;
+  position: absolute;
+  border-radius: 16px;
+}
+.kemeja-admin-rectangle8 {
+  top: 423px;
+  left: 971px;
+  width: 51px;
+  height: 64px;
+  position: absolute;
+  border-radius: 16px;
+}
+.kemeja-admin-rectangle9 {
+  top: 423px;
+  left: 1133px;
+  width: 51px;
+  height: 64px;
+  position: absolute;
+  border-radius: 16px;
+}
+.kemeja-admin-rectangle10 {
+  top: 423px;
+  left: 1214px;
+  width: 60px;
+  height: 64px;
+  position: absolute;
+  border-radius: 16px;
+}
+.kemeja-admin-rectangle11 {
+  top: 423px;
+  left: 1052px;
+  width: 51px;
+  height: 64px;
+  position: absolute;
+  border-radius: 16px;
+}
+.kemeja-admin-text12 {
+  top: 442px;
+  left: 902px;
+  color: rgba(107, 104, 104, 1);
+  width: 42px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.kemeja-admin-text13 {
+  top: 442px;
+  left: 979px;
+  color: rgba(107, 104, 104, 1);
+  width: 42px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.kemeja-admin-text14 {
+  top: 442px;
+  left: 1067px;
+  color: rgba(107, 104, 104, 1);
+  width: 26px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.kemeja-admin-text15 {
+  top: 442px;
+  left: 1139px;
+  color: rgba(107, 104, 104, 1);
+  width: 52px;
+  height: auto;
+  position: absolute;
+  font-size: 34px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.kemeja-admin-text17 {
+  top: 442px;
+  left: 1218px;
+  color: rgba(107, 104, 104, 1);
+  width: 66px;
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.kemeja-admin-ellipse4 {
+  top: 426px;
+  left: 1367px;
+  width: 53px;
+  height: 53px;
+  position: absolute;
+}
+.kemeja-admin-ellipse5 {
+  top: 426px;
+  left: 1529px;
+  width: 53px;
+  height: 53px;
+  position: absolute;
+}
+.kemeja-admin-ellipse6 {
+  top: 426px;
+  left: 1447px;
+  width: 53px;
+  height: 53px;
+  position: absolute;
+}
+.kemeja-admin-ellipse7 {
+  top: 426px;
+  left: 1612px;
+  width: 53px;
+  height: 53px;
+  position: absolute;
+}
+.kemeja-admin-ellipse8 {
+  top: 426px;
+  left: 1697px;
+  width: 52px;
+  height: 53px;
+  position: absolute;
+}
+.kemeja-admin-rectangle36 {
+  top: 615px;
+  left: 888px;
+  width: 227px;
+  height: 59px;
+  position: absolute;
+  box-sizing: content-box;
+  border-color: rgba(150, 141, 141, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.kemeja-admin-rectangle37 {
+  top: 615px;
+  left: 888px;
+  width: 54px;
+  height: 59px;
+  position: absolute;
+  box-sizing: content-box;
+  border-color: rgba(150, 141, 141, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.kemeja-admin-rectangle38 {
+  top: 615px;
+  left: 1065px;
+  width: 54px;
+  height: 59px;
+  position: absolute;
+  box-sizing: content-box;
+  border-color: rgba(150, 141, 141, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.kemeja-admin-group6 {
+  top: 629px;
+  left: 1076px;
+  width: 31.998830795288086px;
+  height: 32.000701904296875px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 1;
+  justify-content: center;
+}
+.kemeja-admin-line7 {
+  top: 0px;
+  left: 16.000350952148438px;
+  width: 32px;
+  height: 1px;
+  position: absolute;
+}
+.kemeja-admin-group61 {
+  top: 629px;
+  left: 1076px;
+  width: 31.998830795288086px;
+  height: 32.000701904296875px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 1;
+  justify-content: center;
+}
+.kemeja-admin-line71 {
+  top: 0px;
+  left: 16.000350952148438px;
+  width: 32px;
+  height: 1px;
+  position: absolute;
+}
+.kemeja-admin-group62 {
+  top: 629px;
+  left: 1076px;
+  width: 31.998830795288086px;
+  height: 32.000701904296875px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 1;
+  justify-content: center;
+}
+.kemeja-admin-line72 {
+  top: 0px;
+  left: 16.000350952148438px;
+  width: 32px;
+  height: 1px;
+  position: absolute;
+}
+.kemeja-admin-group63 {
+  top: 629px;
+  left: 1076px;
+  width: 31.998830795288086px;
+  height: 32.000701904296875px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 1;
+  justify-content: center;
+}
+.kemeja-admin-line73 {
+  top: 0px;
+  left: 16.000350952148438px;
+  width: 32px;
+  height: 1px;
+  position: absolute;
+}
+.kemeja-admin-icon {
+  width: 24px;
+  height: 24px;
+}
+.kemeja-admin-group64 {
+  top: 631px;
+  left: 904px;
+  width: 31.998830795288086px;
+  height: 32.000701904296875px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 1;
+  padding-bottom: var(--dl-space-space-halfunit);
+  justify-content: flex-start;
+}
+.kemeja-admin-line74 {
+  top: 0px;
+  left: 16.000350952148438px;
+  width: 32px;
+  height: 1px;
+  position: absolute;
+}
+.kemeja-admin-icon2 {
+  width: 24px;
+  height: 24px;
+}
+.kemeja-admin-group65 {
+  top: 659px;
+  left: 1106px;
+  width: 31.998830795288086px;
+  height: 32.000701904296875px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 1;
+  justify-content: center;
+}
+.kemeja-admin-line75 {
+  top: 0px;
+  left: 16.000350952148438px;
+  width: 32px;
+  height: 1px;
+  position: absolute;
+}
+.kemeja-admin-line9 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 1px;
+  position: absolute;
+}
+.kemeja-admin-femaleshirtyellow {
+  top: 155px;
+  left: 206px;
+  width: 601px;
+  height: 630px;
+  position: absolute;
+  border-radius: 16px;
+}
+.kemeja-admin-femalebrownshirt {
+  top: 824px;
+  left: 206px;
+  width: 118px;
+  height: 174px;
+  position: absolute;
+  border-radius: 16px;
+}
+.kemeja-admin-femalewhiteshirt {
+  top: 824px;
+  left: 370px;
+  width: 116px;
+  height: 174px;
+  position: absolute;
+  border-radius: 16px;
+}
+.kemeja-admin-femalenavyshirt {
+  top: 824px;
+  left: 531px;
+  width: 116px;
+  height: 174px;
+  position: absolute;
+  border-radius: 16px;
+}
+.kemeja-admin-femaleblackshirt {
+  top: 824px;
+  left: 691px;
+  width: 116px;
+  height: 174px;
+  position: absolute;
+  border-radius: 16px;
+}
+.kemeja-admin-navlink {
+  display: contents;
+}
+.kemeja-admin-arrow4 {
+  top: 109px;
+  left: 98px;
+  width: 70px;
+  height: 42px;
+  position: absolute;
+  text-decoration: none;
+}
+.kemeja-admin-container1 {
+  top: 25px;
+  right: 60px;
+  width: 494.9999885559082px;
+  height: 928.0113143920898px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.kemeja-admin-navlink1 {
+  display: contents;
+}
+.kemeja-admin-edit2181 {
+  top: 0px;
+  right: 0px;
+  width: 42px;
+  height: 43px;
+  position: absolute;
+  text-decoration: none;
+}
+.kemeja-admin-rectangle40 {
+  left: 0px;
+  width: 386px;
+  bottom: 0px;
+  height: 98px;
+  position: absolute;
+}
+.kemeja-admin-text19 {
+  left: 147.0029296875px;
+  color: rgba(255, 255, 255, 1);
+  width: 131px;
+  bottom: 34.99996376037598px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}

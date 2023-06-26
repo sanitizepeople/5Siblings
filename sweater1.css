@@ -1,0 +1,432 @@
+.sweater1-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.sweater1-sweater1 {
+  gap: 10px;
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(245, 242, 222, 1);
+}
+.sweater1-text {
+  top: 163px;
+  left: 892px;
+  color: rgba(0, 0, 0, 1);
+  width: 884px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Extra Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 60px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sweater1-navlink {
+  display: contents;
+}
+.sweater1-arrow4 {
+  top: 105px;
+  left: 78px;
+  width: 70px;
+  height: 42px;
+  position: absolute;
+  text-decoration: none;
+}
+.sweater1-text02 {
+  top: 76px;
+  left: 203px;
+  color: rgba(93, 90, 90, 1);
+  width: 241px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sweater1-text04 {
+  top: 316px;
+  left: 896px;
+  color: rgba(166, 161, 161, 1);
+  width: 292px;
+  height: auto;
+  position: absolute;
+  font-size: 46px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sweater1-text06 {
+  top: 375px;
+  left: 898px;
+  color: rgba(55, 54, 54, 1);
+  width: 285px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sweater1-text08 {
+  top: 372px;
+  left: 1369px;
+  color: rgba(55, 54, 54, 1);
+  width: 285px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sweater1-text10 {
+  top: 560px;
+  left: 894px;
+  color: rgba(55, 54, 54, 1);
+  width: 285px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sweater1-rectangle7 {
+  top: 423px;
+  left: 894px;
+  width: 51px;
+  height: 64px;
+  position: absolute;
+  border-radius: 16px;
+}
+.sweater1-rectangle8 {
+  top: 423px;
+  left: 975px;
+  width: 51px;
+  height: 64px;
+  position: absolute;
+  border-radius: 16px;
+}
+.sweater1-rectangle9 {
+  top: 423px;
+  left: 1137px;
+  width: 51px;
+  height: 64px;
+  position: absolute;
+  border-radius: 16px;
+}
+.sweater1-rectangle10 {
+  top: 423px;
+  left: 1218px;
+  width: 60px;
+  height: 64px;
+  position: absolute;
+  border-radius: 16px;
+}
+.sweater1-rectangle11 {
+  top: 423px;
+  left: 1056px;
+  width: 51px;
+  height: 64px;
+  position: absolute;
+  border-radius: 16px;
+}
+.sweater1-text12 {
+  top: 441px;
+  left: 904px;
+  color: rgba(107, 104, 104, 1);
+  width: 42px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sweater1-text13 {
+  top: 441px;
+  left: 981px;
+  color: rgba(107, 104, 104, 1);
+  width: 42px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sweater1-text14 {
+  top: 441px;
+  left: 1069px;
+  color: rgba(107, 104, 104, 1);
+  width: 26px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sweater1-text15 {
+  top: 441px;
+  left: 1141px;
+  color: rgba(107, 104, 104, 1);
+  width: 52px;
+  height: auto;
+  position: absolute;
+  font-size: 34px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sweater1-text17 {
+  top: 441px;
+  left: 1220px;
+  color: rgba(107, 104, 104, 1);
+  width: 66px;
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sweater1-ellipse4 {
+  top: 426px;
+  left: 1371px;
+  width: 53px;
+  height: 53px;
+  position: absolute;
+}
+.sweater1-ellipse5 {
+  top: 426px;
+  left: 1533px;
+  width: 53px;
+  height: 53px;
+  position: absolute;
+}
+.sweater1-ellipse6 {
+  top: 426px;
+  left: 1451px;
+  width: 53px;
+  height: 53px;
+  position: absolute;
+}
+.sweater1-ellipse7 {
+  top: 426px;
+  left: 1616px;
+  width: 53px;
+  height: 53px;
+  position: absolute;
+}
+.sweater1-ellipse8 {
+  top: 426px;
+  left: 1701px;
+  width: 52px;
+  height: 53px;
+  position: absolute;
+}
+.sweater1-rectangle4 {
+  top: 726px;
+  left: 892px;
+  width: 386px;
+  height: 98px;
+  position: absolute;
+}
+.sweater1-rectangle39 {
+  top: 726px;
+  left: 1371px;
+  width: 386px;
+  height: 98px;
+  position: absolute;
+}
+.sweater1-cart-add4 {
+  top: 742px;
+  left: 929px;
+  width: 65px;
+  height: 65px;
+  position: absolute;
+}
+.sweater1-text19 {
+  top: 757px;
+  left: 1017px;
+  color: rgba(0, 0, 0, 1);
+  width: 292px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sweater1-text21 {
+  top: 760px;
+  left: 1502px;
+  color: rgba(0, 0, 0, 1);
+  width: 131px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sweater1-maleyellowsweater {
+  top: 824px;
+  left: 207px;
+  width: 136px;
+  height: 174px;
+  position: absolute;
+  border-radius: 16px;
+}
+.sweater1-malewhitesweater {
+  top: 824px;
+  left: 369px;
+  width: 131px;
+  height: 174px;
+  position: absolute;
+  border-radius: 16px;
+}
+.sweater1-malenavysweater {
+  top: 823px;
+  left: 526px;
+  width: 140px;
+  height: 175px;
+  position: absolute;
+  border-radius: 16px;
+}
+.sweater1-maleblacksweater {
+  top: 824px;
+  left: 691px;
+  width: 127px;
+  height: 174px;
+  position: absolute;
+  border-radius: 16px;
+}
+.sweater1-malebrownsweater {
+  top: 144px;
+  left: 204px;
+  width: 617px;
+  height: 637px;
+  position: absolute;
+  border-radius: 16px;
+}
+.sweater1-rectangle36 {
+  top: 610px;
+  left: 897px;
+  width: 227px;
+  height: 59px;
+  position: absolute;
+  box-sizing: content-box;
+  border-color: rgba(150, 141, 141, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.sweater1-rectangle37 {
+  top: 610px;
+  left: 897px;
+  width: 54px;
+  height: 59px;
+  position: absolute;
+  box-sizing: content-box;
+  border-color: rgba(150, 141, 141, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.sweater1-rectangle38 {
+  top: 610px;
+  left: 1074px;
+  width: 54px;
+  height: 59px;
+  position: absolute;
+  box-sizing: content-box;
+  border-color: rgba(150, 141, 141, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.sweater1-group6 {
+  top: 614px;
+  left: 1089px;
+  width: 30px;
+  height: 39px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sweater1-text23 {
+  font-size: 40px;
+  text-transform: capitalize;
+}
+.sweater1-line9 {
+  top: 640px;
+  left: 909px;
+  width: 30px;
+  height: 1px;
+  position: absolute;
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
+  border-color: #000000;
+  border-width: 1px;
+  border-radius: var(--dl-radius-radius-radius4);
+}

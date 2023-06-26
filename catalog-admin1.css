@@ -1,0 +1,344 @@
+.catalog-admin-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.catalog-admin-desktop2 {
+  gap: 10px;
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-end;
+  flex-shrink: 0;
+  justify-content: flex-end;
+  background-color: rgba(245, 242, 222, 1);
+}
+.catalog-admin-desktop4 {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(245, 242, 222, 1);
+}
+.catalog-admin-rectangle12 {
+  top: -60px;
+  left: -56px;
+  width: 1990px;
+  height: 1254px;
+  position: absolute;
+}
+.catalog-admin-rakbaju1 {
+  top: 112px;
+  left: 152px;
+  width: 1605px;
+  height: 328px;
+  position: absolute;
+  border-radius: 40px;
+}
+.catalog-admin-navlink {
+  display: contents;
+}
+.catalog-admin-arrow4 {
+  top: 62px;
+  left: 63px;
+  width: 70px;
+  height: 42px;
+  position: absolute;
+  text-decoration: none;
+}
+.catalog-admin-text {
+  top: 223px;
+  left: 579px;
+  color: rgba(236, 228, 183, 1);
+  width: 761px;
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  font-style: Extra Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 60px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.catalog-admin-rectangle7 {
+  top: 513px;
+  left: 152px;
+  width: 340px;
+  height: 340px;
+  position: absolute;
+  border-radius: 16px;
+}
+.catalog-admin-text02 {
+  top: 850px;
+  left: 153px;
+  color: rgba(0, 0, 0, 1);
+  width: 242px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.catalog-admin-text04 {
+  top: 857px;
+  left: 575px;
+  color: rgba(0, 0, 0, 1);
+  width: 241px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.catalog-admin-text06 {
+  top: 853px;
+  left: 996px;
+  color: rgba(0, 0, 0, 1);
+  width: 262px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.catalog-admin-text08 {
+  top: 857px;
+  left: 1417px;
+  color: rgba(0, 0, 0, 1);
+  width: 292px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.catalog-admin-text10 {
+  top: 893px;
+  left: 153px;
+  color: rgba(0, 0, 0, 1);
+  width: 242px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.catalog-admin-text12 {
+  top: 894px;
+  left: 996px;
+  color: rgba(0, 0, 0, 1);
+  width: 242px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.catalog-admin-text14 {
+  top: 899px;
+  left: 1417px;
+  color: rgba(0, 0, 0, 1);
+  width: 242px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.catalog-admin-text16 {
+  top: 895px;
+  left: 575px;
+  color: rgba(0, 0, 0, 1);
+  width: 241px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.catalog-admin-navlink01 {
+  display: contents;
+}
+.catalog-admin-maletshirtbluenavy1 {
+  top: 513px;
+  left: 155px;
+  width: 337px;
+  height: 337px;
+  position: absolute;
+  border-radius: 16px;
+  text-decoration: none;
+}
+.catalog-admin-rectangle11 {
+  top: 513px;
+  left: 575px;
+  width: 339px;
+  height: 340px;
+  position: absolute;
+  border-radius: 16px;
+}
+.catalog-admin-rectangle121 {
+  top: 513px;
+  left: 996px;
+  width: 340px;
+  height: 340px;
+  position: absolute;
+  border-radius: 16px;
+}
+.catalog-admin-rectangle13 {
+  top: 513px;
+  left: 1417px;
+  width: 340px;
+  height: 340px;
+  position: absolute;
+  border-radius: 16px;
+}
+.catalog-admin-navlink02 {
+  display: contents;
+}
+.catalog-admin-femaleshirtyellow1 {
+  top: 513px;
+  left: 996px;
+  width: 340px;
+  height: 340px;
+  position: absolute;
+  border-radius: 16px;
+  text-decoration: none;
+}
+.catalog-admin-navlink03 {
+  display: contents;
+}
+.catalog-admin-femalewhitesweater1 {
+  top: 513px;
+  left: 1417px;
+  width: 340px;
+  height: 340px;
+  position: absolute;
+  border-radius: 16px;
+  text-decoration: none;
+}
+.catalog-admin-vector {
+  top: 267px;
+  left: 120.2685546875px;
+  width: 197px;
+  height: 195px;
+  position: absolute;
+}
+.catalog-admin-navlink04 {
+  display: contents;
+}
+.catalog-admin-malejacketbrown1 {
+  top: 513px;
+  left: 574px;
+  width: 340px;
+  height: 337px;
+  position: absolute;
+  border-radius: 16px;
+  text-decoration: none;
+}
+.catalog-admin-navlink05 {
+  display: contents;
+}
+.catalog-admin-arrow5 {
+  right: 54px;
+  width: 70px;
+  bottom: 53px;
+  height: 42px;
+  position: absolute;
+  text-decoration: none;
+}
+.catalog-admin-navlink06 {
+  display: contents;
+}
+.catalog-admin-edit2181 {
+  top: 532px;
+  right: 177px;
+  width: 42px;
+  height: 43px;
+  position: absolute;
+  text-decoration: none;
+}
+.catalog-admin-navlink07 {
+  display: contents;
+}
+.catalog-admin-edit2182 {
+  top: 525px;
+  left: 1285px;
+  width: 42px;
+  height: 43px;
+  position: absolute;
+  text-decoration: none;
+}
+.catalog-admin-navlink08 {
+  display: contents;
+}
+.catalog-admin-edit2183 {
+  top: 517px;
+  left: 867px;
+  width: 42px;
+  height: 43px;
+  position: absolute;
+  text-decoration: none;
+}
+.catalog-admin-navlink09 {
+  display: contents;
+}
+.catalog-admin-edit2184 {
+  top: 524px;
+  left: 446px;
+  width: 42px;
+  height: 43px;
+  position: absolute;
+  text-decoration: none;
+}

@@ -1,0 +1,225 @@
+.order-details-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.order-details-orderdetails {
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(236, 228, 183, 1);
+}
+.order-details-rectangle7 {
+  top: 228px;
+  left: -133px;
+  width: 296px;
+  height: 1141px;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+}
+.order-details-text {
+  top: 93px;
+  left: 51px;
+  color: rgba(221, 96, 49, 1);
+  width: 299px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: 36px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.order-details-rectangle12 {
+  top: 93px;
+  left: 504px;
+  width: 417px;
+  height: 69px;
+  position: absolute;
+  border-radius: 20px;
+}
+.order-details-rectangle17 {
+  top: 361px;
+  left: 456px;
+  width: 1199px;
+  height: 597px;
+  position: absolute;
+}
+.order-details-rectangle13 {
+  top: 92px;
+  left: 1074px;
+  width: 417px;
+  height: 69px;
+  position: absolute;
+  border-radius: 20px;
+}
+.order-details-text02 {
+  top: 109px;
+  left: 534px;
+  color: rgba(137, 133, 133, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 36px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.order-details-text04 {
+  top: 109px;
+  left: 1135px;
+  color: rgba(137, 133, 133, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 36px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.order-details-ellipse1 {
+  top: 326px;
+  left: 5px;
+  width: 88px;
+  height: 88px;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  box-sizing: content-box;
+}
+.order-details-profile-free-icon1 {
+  top: 324px;
+  left: 6px;
+  width: 88px;
+  height: 88px;
+  position: absolute;
+}
+.order-details-rectangle71 {
+  top: 842px;
+  left: 125px;
+  width: 10px;
+  height: 68px;
+  position: absolute;
+}
+.order-details-find-product1 {
+  top: 115px;
+  left: 866px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.order-details-text06 {
+  top: 228px;
+  left: 244px;
+  color: rgba(0, 0, 0, 1);
+  width: 338px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 36px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.order-details-mobile-ecommerce2 {
+  top: 680px;
+  left: 36px;
+  width: 69px;
+  height: 74px;
+  position: absolute;
+}
+.order-details-package2 {
+  top: 836px;
+  left: 34px;
+  width: 65px;
+  height: 69px;
+  position: absolute;
+}
+.order-details-menuicon62 {
+  top: 488px;
+  left: 8px;
+  width: 120px;
+  height: 123px;
+  position: absolute;
+}
+.order-details-text08 {
+  top: 409px;
+  left: 567px;
+  color: rgba(0, 0, 0, 1);
+  width: 383px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Extra Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 36px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.order-details-rectangle28 {
+  top: 852px;
+  left: 1334px;
+  width: 265px;
+  height: 55px;
+  position: absolute;
+}
+.order-details-text10 {
+  color: rgba(255, 255, 255, 1);
+  right: -157px;
+  width: 654px;
+  bottom: 182px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 36px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.order-details-text12 {
+  top: 544px;
+  left: 567px;
+  color: rgba(0, 0, 0, 1);
+  width: 851px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 36px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.order-details-maletshirtshortwhiteini {
+  top: 491px;
+  left: 1360px;
+  width: 214px;
+  height: 296px;
+  position: absolute;
+  border-radius: 16px;
+}

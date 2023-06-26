@@ -1,0 +1,422 @@
+.sweater-admin-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.sweater-admin-sweater1 {
+  gap: 10px;
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(245, 242, 222, 1);
+}
+.sweater-admin-text {
+  top: 163px;
+  left: 892px;
+  color: rgba(0, 0, 0, 1);
+  width: 884px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Extra Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 60px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sweater-admin-navlink {
+  display: contents;
+}
+.sweater-admin-arrow4 {
+  top: 105px;
+  left: 78px;
+  width: 70px;
+  height: 42px;
+  position: absolute;
+  text-decoration: none;
+}
+.sweater-admin-text02 {
+  top: 76px;
+  left: 203px;
+  color: rgba(93, 90, 90, 1);
+  width: 241px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sweater-admin-text04 {
+  top: 316px;
+  left: 896px;
+  color: rgba(166, 161, 161, 1);
+  width: 292px;
+  height: auto;
+  position: absolute;
+  font-size: 46px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sweater-admin-text06 {
+  top: 375px;
+  left: 898px;
+  color: rgba(55, 54, 54, 1);
+  width: 285px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sweater-admin-text08 {
+  top: 372px;
+  left: 1369px;
+  color: rgba(55, 54, 54, 1);
+  width: 285px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sweater-admin-text10 {
+  top: 560px;
+  left: 894px;
+  color: rgba(55, 54, 54, 1);
+  width: 285px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sweater-admin-rectangle7 {
+  top: 423px;
+  left: 894px;
+  width: 51px;
+  height: 64px;
+  position: absolute;
+  border-radius: 16px;
+}
+.sweater-admin-rectangle8 {
+  top: 423px;
+  left: 975px;
+  width: 51px;
+  height: 64px;
+  position: absolute;
+  border-radius: 16px;
+}
+.sweater-admin-rectangle9 {
+  top: 423px;
+  left: 1137px;
+  width: 51px;
+  height: 64px;
+  position: absolute;
+  border-radius: 16px;
+}
+.sweater-admin-rectangle10 {
+  top: 423px;
+  left: 1218px;
+  width: 60px;
+  height: 64px;
+  position: absolute;
+  border-radius: 16px;
+}
+.sweater-admin-rectangle11 {
+  top: 423px;
+  left: 1056px;
+  width: 51px;
+  height: 64px;
+  position: absolute;
+  border-radius: 16px;
+}
+.sweater-admin-text12 {
+  top: 441px;
+  left: 904px;
+  color: rgba(107, 104, 104, 1);
+  width: 42px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sweater-admin-text13 {
+  top: 441px;
+  left: 981px;
+  color: rgba(107, 104, 104, 1);
+  width: 42px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sweater-admin-text14 {
+  top: 441px;
+  left: 1069px;
+  color: rgba(107, 104, 104, 1);
+  width: 26px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sweater-admin-text15 {
+  top: 441px;
+  left: 1141px;
+  color: rgba(107, 104, 104, 1);
+  width: 52px;
+  height: auto;
+  position: absolute;
+  font-size: 34px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sweater-admin-text17 {
+  top: 441px;
+  left: 1220px;
+  color: rgba(107, 104, 104, 1);
+  width: 66px;
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sweater-admin-ellipse4 {
+  top: 426px;
+  left: 1371px;
+  width: 53px;
+  height: 53px;
+  position: absolute;
+}
+.sweater-admin-ellipse5 {
+  top: 426px;
+  left: 1533px;
+  width: 53px;
+  height: 53px;
+  position: absolute;
+}
+.sweater-admin-ellipse6 {
+  top: 426px;
+  left: 1451px;
+  width: 53px;
+  height: 53px;
+  position: absolute;
+}
+.sweater-admin-ellipse7 {
+  top: 426px;
+  left: 1616px;
+  width: 53px;
+  height: 53px;
+  position: absolute;
+}
+.sweater-admin-ellipse8 {
+  top: 426px;
+  left: 1701px;
+  width: 52px;
+  height: 53px;
+  position: absolute;
+}
+.sweater-admin-maleyellowsweater {
+  top: 824px;
+  left: 207px;
+  width: 136px;
+  height: 174px;
+  position: absolute;
+  border-radius: 16px;
+}
+.sweater-admin-malewhitesweater {
+  top: 824px;
+  left: 369px;
+  width: 131px;
+  height: 174px;
+  position: absolute;
+  border-radius: 16px;
+}
+.sweater-admin-malenavysweater {
+  top: 823px;
+  left: 526px;
+  width: 140px;
+  height: 175px;
+  position: absolute;
+  border-radius: 16px;
+}
+.sweater-admin-maleblacksweater {
+  top: 824px;
+  left: 691px;
+  width: 127px;
+  height: 174px;
+  position: absolute;
+  border-radius: 16px;
+}
+.sweater-admin-malebrownsweater {
+  top: 144px;
+  left: 204px;
+  width: 617px;
+  height: 637px;
+  position: absolute;
+  border-radius: 16px;
+}
+.sweater-admin-rectangle36 {
+  top: 610px;
+  left: 897px;
+  width: 227px;
+  height: 59px;
+  position: absolute;
+  box-sizing: content-box;
+  border-color: rgba(150, 141, 141, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.sweater-admin-rectangle37 {
+  top: 610px;
+  left: 897px;
+  width: 54px;
+  height: 59px;
+  position: absolute;
+  box-sizing: content-box;
+  border-color: rgba(150, 141, 141, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.sweater-admin-rectangle38 {
+  top: 610px;
+  left: 1074px;
+  width: 54px;
+  height: 59px;
+  position: absolute;
+  box-sizing: content-box;
+  border-color: rgba(150, 141, 141, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.sweater-admin-group6 {
+  top: 614px;
+  left: 1089px;
+  width: 30px;
+  height: 39px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sweater-admin-text19 {
+  font-size: 40px;
+  text-transform: capitalize;
+}
+.sweater-admin-line9 {
+  top: 640px;
+  left: 909px;
+  width: 30px;
+  height: 1px;
+  position: absolute;
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
+  border-color: #000000;
+  border-width: 1px;
+  border-radius: var(--dl-radius-radius-radius4);
+}
+.sweater-admin-container1 {
+  top: 50px;
+  left: 1366.0084228515625px;
+  width: 494.9999885559082px;
+  height: 928.0113143920898px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.sweater-admin-navlink1 {
+  display: contents;
+}
+.sweater-admin-edit2181 {
+  top: 0px;
+  right: 0px;
+  width: 42px;
+  height: 43px;
+  position: absolute;
+  text-decoration: none;
+}
+.sweater-admin-rectangle40 {
+  left: 0px;
+  width: 386px;
+  bottom: 0px;
+  height: 98px;
+  position: absolute;
+}
+.sweater-admin-text20 {
+  left: 147.0029296875px;
+  color: rgba(255, 255, 255, 1);
+  width: 131px;
+  bottom: 34.99996376037598px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}

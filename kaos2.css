@@ -1,0 +1,444 @@
+.kaos2-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.kaos2-kaos2 {
+  gap: 10px;
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(245, 242, 222, 1);
+}
+.kaos2-blacktshirtmale1 {
+  top: 824px;
+  left: 713px;
+  width: 128px;
+  height: 174px;
+  position: absolute;
+  border-radius: 16px;
+}
+.kaos2-text {
+  top: 103px;
+  left: 869px;
+  color: rgba(0, 0, 0, 1);
+  width: 875px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Extra Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 60px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.kaos2-text02 {
+  top: 53px;
+  left: 212px;
+  color: rgba(93, 90, 90, 1);
+  width: 241px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.kaos2-text04 {
+  top: 332px;
+  left: 875px;
+  color: rgb(55, 54, 54);
+  width: 285px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.kaos2-text05 {
+  top: 336px;
+  left: 1391px;
+  color: rgba(55, 54, 54, 1);
+  width: 285px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.kaos2-text07 {
+  top: 521px;
+  left: 910px;
+  color: rgba(55, 54, 54, 1);
+  width: 285px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.kaos2-ellipse4 {
+  top: 426px;
+  left: 1389px;
+  width: 53px;
+  height: 53px;
+  position: absolute;
+}
+.kaos2-ellipse5 {
+  top: 426px;
+  left: 1551px;
+  width: 53px;
+  height: 53px;
+  position: absolute;
+}
+.kaos2-ellipse6 {
+  top: 426px;
+  left: 1469px;
+  width: 53px;
+  height: 53px;
+  position: absolute;
+}
+.kaos2-ellipse7 {
+  top: 426px;
+  left: 1634px;
+  width: 53px;
+  height: 53px;
+  position: absolute;
+}
+.kaos2-ellipse8 {
+  top: 426px;
+  left: 1719px;
+  width: 52px;
+  height: 53px;
+  position: absolute;
+}
+.kaos2-malejacketblack {
+  top: 817px;
+  left: 713px;
+  width: 128px;
+  height: 163px;
+  position: absolute;
+}
+.kaos2-femaletshirtyellow2 {
+  top: 138px;
+  left: 195px;
+  width: 629px;
+  height: 622px;
+  position: absolute;
+  border-radius: 19px;
+}
+.kaos2-femaletshirtblack {
+  top: 823px;
+  left: 696px;
+  width: 128px;
+  height: 171px;
+  position: absolute;
+}
+.kaos2-femaletshirtwhite {
+  top: 824px;
+  left: 537px;
+  width: 121px;
+  height: 174px;
+  position: absolute;
+}
+.kaos2-femaletshirtbrown {
+  top: 824px;
+  left: 185px;
+  width: 141px;
+  height: 170px;
+  position: absolute;
+}
+.kaos2-femaletshirtnavy {
+  top: 825px;
+  left: 366px;
+  width: 128px;
+  height: 174px;
+  position: absolute;
+}
+.kaos2-text09 {
+  top: 259px;
+  left: 874px;
+  color: rgb(166, 161, 161);
+  width: 292px;
+  height: auto;
+  position: absolute;
+  font-size: 46px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.kaos2-rectangle7 {
+  top: 423px;
+  left: 876px;
+  width: 51px;
+  height: 64px;
+  position: absolute;
+  border-radius: 16px;
+}
+.kaos2-rectangle8 {
+  top: 423px;
+  left: 957px;
+  width: 51px;
+  height: 64px;
+  position: absolute;
+  border-radius: 16px;
+}
+.kaos2-rectangle9 {
+  top: 423px;
+  left: 1119px;
+  width: 51px;
+  height: 64px;
+  position: absolute;
+  border-radius: 16px;
+}
+.kaos2-rectangle10 {
+  top: 423px;
+  left: 1200px;
+  width: 60px;
+  height: 64px;
+  position: absolute;
+  border-radius: 16px;
+}
+.kaos2-rectangle11 {
+  top: 423px;
+  left: 1038px;
+  width: 51px;
+  height: 64px;
+  position: absolute;
+  border-radius: 16px;
+}
+.kaos2-text10 {
+  top: 436px;
+  left: 888px;
+  color: rgba(107, 104, 104, 1);
+  width: 42px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.kaos2-text11 {
+  top: 436px;
+  left: 965px;
+  color: rgba(107, 104, 104, 1);
+  width: 42px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.kaos2-text12 {
+  top: 436px;
+  left: 1053px;
+  color: rgba(107, 104, 104, 1);
+  width: 26px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.kaos2-text13 {
+  top: 436px;
+  left: 1128px;
+  color: rgba(107, 104, 104, 1);
+  width: 52px;
+  height: auto;
+  position: absolute;
+  font-size: 34px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.kaos2-text15 {
+  top: 436px;
+  left: 1204px;
+  color: rgba(107, 104, 104, 1);
+  width: 66px;
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.kaos2-rectangle36 {
+  top: 615px;
+  left: 874px;
+  width: 227px;
+  height: 59px;
+  position: absolute;
+  box-sizing: content-box;
+  border-color: rgba(150, 141, 141, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.kaos2-rectangle37 {
+  top: 615px;
+  left: 874px;
+  width: 54px;
+  height: 59px;
+  position: absolute;
+  box-sizing: content-box;
+  border-color: rgba(150, 141, 141, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.kaos2-rectangle38 {
+  top: 615px;
+  left: 1051px;
+  width: 54px;
+  height: 59px;
+  position: absolute;
+  box-sizing: content-box;
+  border-color: rgba(150, 141, 141, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.kaos2-group6 {
+  top: 619px;
+  left: 1066px;
+  width: 30px;
+  height: 39px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.kaos2-text17 {
+  font-size: 40px;
+  text-transform: capitalize;
+}
+.kaos2-line9 {
+  top: 645px;
+  left: 886px;
+  width: 30px;
+  height: 1px;
+  position: absolute;
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
+  border-color: #000000;
+  border-width: 1px;
+  border-radius: var(--dl-radius-radius-radius4);
+}
+.kaos2-rectangle4 {
+  top: 726px;
+  left: 874px;
+  width: 386px;
+  height: 98px;
+  position: absolute;
+}
+.kaos2-rectangle39 {
+  top: 726px;
+  left: 1353px;
+  width: 386px;
+  height: 98px;
+  position: absolute;
+}
+.kaos2-cart-add4 {
+  top: 742px;
+  left: 911px;
+  width: 65px;
+  height: 65px;
+  position: absolute;
+}
+.kaos2-navlink {
+  display: contents;
+}
+.kaos2-arrow4 {
+  top: 120px;
+  left: 64px;
+  width: 70px;
+  height: 42px;
+  position: absolute;
+  text-decoration: none;
+}
+.kaos2-text18 {
+  top: 757px;
+  left: 994px;
+  color: rgba(0, 0, 0, 1);
+  width: 292px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.kaos2-text20 {
+  top: 759px;
+  left: 1486px;
+  color: rgba(0, 0, 0, 1);
+  width: 131px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}

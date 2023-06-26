@@ -1,0 +1,297 @@
+.catalog-admin-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.catalog-admin-desktop7 {
+  gap: 10px;
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(245, 242, 222, 1);
+}
+.catalog-admin-desktop4 {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(245, 242, 222, 1);
+}
+.catalog-admin-rectangle12 {
+  top: 1568.999755859375px;
+  left: 1989.77685546875px;
+  width: 1990px;
+  height: 1254px;
+  position: absolute;
+}
+.catalog-admin-rectangle7 {
+  top: 145px;
+  left: 159px;
+  width: 340px;
+  height: 340px;
+  position: absolute;
+  border-radius: 16px;
+}
+.catalog-admin-navlink {
+  display: contents;
+}
+.catalog-admin-femaletshirtyellow1 {
+  top: 145px;
+  left: 157px;
+  width: 340px;
+  height: 336px;
+  position: absolute;
+  border-radius: 19px;
+  text-decoration: none;
+}
+.catalog-admin-text {
+  top: 481px;
+  left: 158px;
+  color: rgba(0, 0, 0, 1);
+  width: 242px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.catalog-admin-text02 {
+  top: 488px;
+  left: 580px;
+  color: rgba(0, 0, 0, 1);
+  width: 241px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.catalog-admin-text04 {
+  top: 484px;
+  left: 1001px;
+  color: rgba(0, 0, 0, 1);
+  width: 262px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.catalog-admin-text06 {
+  top: 488px;
+  left: 1422px;
+  color: rgba(0, 0, 0, 1);
+  width: 292px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.catalog-admin-text08 {
+  top: 524px;
+  left: 158px;
+  color: rgba(0, 0, 0, 1);
+  width: 242px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.catalog-admin-text10 {
+  top: 525px;
+  left: 1001px;
+  color: rgba(0, 0, 0, 1);
+  width: 242px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.catalog-admin-text12 {
+  top: 530px;
+  left: 1422px;
+  color: rgba(0, 0, 0, 1);
+  width: 242px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.catalog-admin-text14 {
+  top: 526px;
+  left: 580px;
+  color: rgba(0, 0, 0, 1);
+  width: 241px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.catalog-admin-rectangle11 {
+  top: 145px;
+  left: 580px;
+  width: 339px;
+  height: 340px;
+  position: absolute;
+  border-radius: 16px;
+}
+.catalog-admin-rectangle121 {
+  top: 145px;
+  left: 1002px;
+  width: 340px;
+  height: 340px;
+  position: absolute;
+  border-radius: 16px;
+}
+.catalog-admin-rectangle13 {
+  top: 145px;
+  left: 1422px;
+  width: 340px;
+  height: 340px;
+  position: absolute;
+  border-radius: 16px;
+}
+.catalog-admin-navlink1 {
+  display: contents;
+}
+.catalog-admin-malewhiteshirt1 {
+  top: 145px;
+  left: 1001px;
+  width: 340px;
+  height: 336px;
+  position: absolute;
+  border-radius: 16px;
+  text-decoration: none;
+}
+.catalog-admin-navlink2 {
+  display: contents;
+}
+.catalog-admin-malebrownsweater1 {
+  top: 144px;
+  left: 1423px;
+  width: 339px;
+  height: 337px;
+  position: absolute;
+  border-radius: 16px;
+  text-decoration: none;
+}
+.catalog-admin-navlink3 {
+  display: contents;
+}
+.catalog-admin-femalejacketnavy1 {
+  top: 145px;
+  left: 581px;
+  width: 337px;
+  height: 336px;
+  position: absolute;
+  border-radius: 16px;
+  text-decoration: none;
+}
+.catalog-admin-navlink4 {
+  display: contents;
+}
+.catalog-admin-arrow4 {
+  top: 83px;
+  left: 145px;
+  width: 70px;
+  height: 42px;
+  position: absolute;
+  text-decoration: none;
+}
+.catalog-admin-navlink5 {
+  display: contents;
+}
+.catalog-admin-edit2181 {
+  top: 165px;
+  right: 179px;
+  width: 42px;
+  height: 43px;
+  position: absolute;
+  text-decoration: none;
+}
+.catalog-admin-navlink6 {
+  display: contents;
+}
+.catalog-admin-edit2182 {
+  top: 158px;
+  left: 1283px;
+  width: 42px;
+  height: 43px;
+  position: absolute;
+  text-decoration: none;
+}
+.catalog-admin-navlink7 {
+  display: contents;
+}
+.catalog-admin-edit2183 {
+  top: 150px;
+  left: 865px;
+  width: 42px;
+  height: 43px;
+  position: absolute;
+  text-decoration: none;
+}
+.catalog-admin-edit2184 {
+  top: 157px;
+  left: 444px;
+  width: 42px;
+  height: 43px;
+  position: absolute;
+}

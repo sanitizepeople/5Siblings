@@ -1,0 +1,119 @@
+.login-as-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.login-as-loginas {
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(236, 228, 183, 1);
+}
+.login-as-rectangle1 {
+  top: 135px;
+  left: 138px;
+  width: 1631px;
+  height: 784px;
+  position: absolute;
+}
+.login-as-rectangle6 {
+  top: 135px;
+  left: 1127px;
+  width: 642px;
+  height: 784px;
+  position: absolute;
+}
+.login-as-draw-kitonlineshopping-illustration131 {
+  top: 205px;
+  left: 253px;
+  width: 789px;
+  height: 644px;
+  position: absolute;
+}
+.login-as-navlink {
+  display: contents;
+}
+.login-as-arrow4 {
+  top: 68px;
+  left: 139px;
+  width: 70px;
+  height: 42px;
+  position: absolute;
+  text-decoration: none;
+}
+.login-as-polygon1 {
+  top: 96.69253540039062px;
+  left: 1857.029296875px;
+  width: 16px;
+  height: 15px;
+  position: absolute;
+}
+.login-as-text {
+  top: 472px;
+  left: 1378px;
+  color: rgba(0, 0, 0, 1);
+  width: 203px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 36px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-as-rectangle4 {
+  top: 571px;
+  left: 1211px;
+  width: 203px;
+  height: 51px;
+  position: absolute;
+}
+.login-as-rectangle5 {
+  top: 571px;
+  left: 1499px;
+  width: 203px;
+  height: 51px;
+  position: absolute;
+}
+.login-as-text2 {
+  top: 579px;
+  left: 1281px;
+  color: rgba(255, 255, 255, 1);
+  width: 151px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 36px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-as-text4 {
+  top: 579px;
+  left: 1551px;
+  color: rgba(255, 255, 255, 1);
+  width: 151px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 36px;
+  font-stretch: normal;
+  text-decoration: none;
+}

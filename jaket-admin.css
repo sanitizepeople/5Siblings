@@ -1,0 +1,433 @@
+.jaket-admin-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.jaket-admin-jaket1 {
+  gap: 10px;
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(245, 242, 222, 1);
+}
+.jaket-admin-blacktshirtmale1 {
+  top: 824px;
+  left: 730px;
+  width: 128px;
+  height: 174px;
+  position: absolute;
+  border-radius: 16px;
+}
+.jaket-admin-text {
+  top: 163px;
+  left: 928px;
+  color: rgba(0, 0, 0, 1);
+  width: 875px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Extra Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 60px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jaket-admin-text02 {
+  top: 85px;
+  left: 193px;
+  color: rgba(93, 90, 90, 1);
+  width: 241px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jaket-admin-text04 {
+  top: 317px;
+  left: 929px;
+  color: rgba(166, 161, 161, 1);
+  width: 292px;
+  height: auto;
+  position: absolute;
+  font-size: 46px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jaket-admin-text06 {
+  top: 379px;
+  left: 929px;
+  color: rgba(55, 54, 54, 1);
+  width: 285px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jaket-admin-text08 {
+  top: 375px;
+  color: rgba(55, 54, 54, 1);
+  right: 227px;
+  width: 285px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jaket-admin-text10 {
+  top: 558px;
+  left: 927px;
+  color: rgba(55, 54, 54, 1);
+  width: 285px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jaket-admin-rectangle7 {
+  top: 423px;
+  left: 929px;
+  width: 51px;
+  height: 64px;
+  position: absolute;
+  border-radius: 16px;
+}
+.jaket-admin-rectangle8 {
+  top: 423px;
+  left: 1010px;
+  width: 51px;
+  height: 64px;
+  position: absolute;
+  border-radius: 16px;
+}
+.jaket-admin-rectangle9 {
+  top: 423px;
+  left: 1172px;
+  width: 51px;
+  height: 64px;
+  position: absolute;
+  border-radius: 16px;
+}
+.jaket-admin-rectangle10 {
+  top: 423px;
+  left: 1253px;
+  width: 60px;
+  height: 64px;
+  position: absolute;
+  border-radius: 16px;
+}
+.jaket-admin-rectangle11 {
+  top: 423px;
+  left: 1091px;
+  width: 51px;
+  height: 64px;
+  position: absolute;
+  border-radius: 16px;
+}
+.jaket-admin-text12 {
+  top: 443px;
+  left: 941px;
+  color: rgba(107, 104, 104, 1);
+  width: 42px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jaket-admin-text13 {
+  top: 443px;
+  left: 1018px;
+  color: rgba(107, 104, 104, 1);
+  width: 42px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jaket-admin-text14 {
+  top: 443px;
+  left: 1106px;
+  color: rgba(107, 104, 104, 1);
+  width: 26px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jaket-admin-text15 {
+  top: 443px;
+  left: 1178px;
+  color: rgba(107, 104, 104, 1);
+  width: 52px;
+  height: auto;
+  position: absolute;
+  font-size: 34px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jaket-admin-text17 {
+  top: 443px;
+  left: 1257px;
+  color: rgba(107, 104, 104, 1);
+  width: 66px;
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jaket-admin-ellipse4 {
+  top: 426px;
+  left: 1406px;
+  width: 53px;
+  height: 53px;
+  position: absolute;
+}
+.jaket-admin-ellipse5 {
+  top: 426px;
+  left: 1568px;
+  width: 53px;
+  height: 53px;
+  position: absolute;
+}
+.jaket-admin-ellipse6 {
+  top: 426px;
+  left: 1486px;
+  width: 53px;
+  height: 53px;
+  position: absolute;
+}
+.jaket-admin-ellipse7 {
+  top: 426px;
+  left: 1651px;
+  width: 53px;
+  height: 53px;
+  position: absolute;
+}
+.jaket-admin-ellipse8 {
+  top: 426px;
+  left: 1736px;
+  width: 52px;
+  height: 53px;
+  position: absolute;
+}
+.jaket-admin-malejacketblack {
+  top: 817px;
+  left: 730px;
+  width: 128px;
+  height: 163px;
+  position: absolute;
+}
+.jaket-admin-femalejacketnavy2 {
+  top: 148px;
+  left: 190px;
+  width: 629px;
+  height: 627px;
+  position: absolute;
+  border-radius: 16px;
+}
+.jaket-admin-femalejacketyellow {
+  top: 824px;
+  left: 190px;
+  width: 131px;
+  height: 174px;
+  position: absolute;
+}
+.jaket-admin-femalejacketwhite {
+  top: 824px;
+  left: 535px;
+  width: 119px;
+  height: 174px;
+  position: absolute;
+}
+.jaket-admin-c32e902b685c6605b921f0a3497382a51 {
+  top: 824px;
+  left: 688px;
+  width: 131px;
+  height: 174px;
+  position: absolute;
+}
+.jaket-admin-navlink {
+  display: contents;
+}
+.jaket-admin-arrow5 {
+  top: 106px;
+  left: 67px;
+  width: 70px;
+  height: 42px;
+  position: absolute;
+  text-decoration: none;
+}
+.jaket-admin-ddc2aff6523e9eecbaa779597cb513d21 {
+  top: 825px;
+  left: 362px;
+  width: 131px;
+  height: 174px;
+  position: absolute;
+}
+.jaket-admin-rectangle36 {
+  top: 610px;
+  left: 930px;
+  width: 227px;
+  height: 59px;
+  position: absolute;
+  box-sizing: content-box;
+  border-color: rgba(150, 141, 141, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.jaket-admin-rectangle37 {
+  top: 610px;
+  left: 930px;
+  width: 54px;
+  height: 59px;
+  position: absolute;
+  box-sizing: content-box;
+  border-color: rgba(150, 141, 141, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.jaket-admin-rectangle38 {
+  top: 610px;
+  left: 1107px;
+  width: 54px;
+  height: 59px;
+  position: absolute;
+  box-sizing: content-box;
+  border-color: rgba(150, 141, 141, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.jaket-admin-group6 {
+  top: 614px;
+  left: 1122px;
+  width: 30px;
+  height: 39px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.jaket-admin-text19 {
+  font-size: 40px;
+  text-transform: capitalize;
+}
+.jaket-admin-line9 {
+  top: 640px;
+  left: 942px;
+  width: 30px;
+  height: 1px;
+  position: absolute;
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
+  border-color: #000000;
+  border-width: 1px;
+  border-radius: var(--dl-radius-radius-radius4);
+}
+.jaket-admin-container1 {
+  top: 50px;
+  left: 1366.0084228515625px;
+  width: 494.9999885559082px;
+  height: 928.0113143920898px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.jaket-admin-navlink1 {
+  display: contents;
+}
+.jaket-admin-edit2181 {
+  top: 0px;
+  right: 0px;
+  width: 42px;
+  height: 43px;
+  position: absolute;
+  text-decoration: none;
+}
+.jaket-admin-rectangle40 {
+  left: -14px;
+  width: 386px;
+  bottom: 168px;
+  height: 98px;
+  position: absolute;
+}
+.jaket-admin-text20 {
+  left: 133px;
+  color: rgba(255, 255, 255, 1);
+  width: 131px;
+  bottom: 203px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
