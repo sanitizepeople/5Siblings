@@ -7,7 +7,7 @@ Tugas Besar Mata Kuliah Analisis Perancangan Sistem Informasi
 
 Nama Anggota:
 2110312006-Rio Nurdiansyah-MiddleEnd,
-2110312034-Adinda Syakira Suciati-FrontEnd
+2110312034-Adinda Syakira Suciati-FrontEnd,
 2110312038-Anisa Budiarti-FrontEnd,
-2110312043-Anysa Vania Utami-FrontEnd,
-2110312063-Daffa Rozano-BackEnd, dan
+2110312043-Anysa Vania Utami-FrontEnd, dan
+2110312063-Daffa Rozano-BackEnd
